@@ -1,0 +1,107 @@
+#container{
+	width:1000px;
+	height:1000px;
+	margin:0 auto;
+}
+#menu{
+	width:980px;
+	height:35px;
+	background-color:#c63636;
+}
+nav{
+	color:white;
+	padding-left: 280px;
+	padding-top:10px;
+}
+h1{
+	color:#c63636;
+	padding-top: 20px;
+	padding-left: 400px;
+}
+em{
+	padding-left: 405px;
+}
+
+#filmhaberi{
+	padding-top:20px;
+	width:300px;
+	height:310px;
+}
+#filmhaberi2{
+	padding-top:20px;
+	width:380px;
+	height:310px;
+}
+#filmhaberi3{
+	padding-top:20px;
+	width:300px;
+	height:310px;
+}
+#orta{
+	width:980px;
+	height:1200px;
+}
+#content{
+	width:620px;
+	height:1200px;
+	float:left;
+}
+#haftaninfilmi{
+	padding:20px;
+	width:530px;
+	height:358px;
+}
+#haftanintartismakonusu{
+	padding:20px;
+	padding-top:75px;
+	width:530px;
+	height:358px;
+}
+#sagkolon{
+    float: left;
+    height: 1200px;
+    width: 360px;
+}
+#konuac{
+	padding-top:20px;
+	padding-right:20px;
+	padding-left:10px;
+	padding-bottom:20px;
+}
+#kayıt{
+	padding-top:20px;
+	padding-right:20px;
+	padding-left:10px;
+	padding-bottom:20px;
+}
+#kutu{
+	width:285px;
+	height:150px;
+	background-color:#282828;
+	margin-left:10px;
+	padding-left:30px;
+	padding-top:40px;
+	margin-top:5px;
+}
+#adrescubugu{
+	width:245px;
+	height:25px;
+	margin-top:20px;
+	margin-bottom:10px;
+	background-color:white;
+}
+#k{
+	background-color:#c63636;
+	margin-left:80px;
+}
+#b{
+	padding-top:20px;
+}
+.filmliste{
+	padding-top:20px;
+}
+#secdiklerimiz{
+	background-color:red;
+	width:980px;
+	height:145px;
+}
